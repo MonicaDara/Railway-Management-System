@@ -1,6 +1,3 @@
-[![CodeQL](https://github.com/aaryanrr/RailwayMGMT/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/aaryanrr/RailwayMGMT/actions/workflows/codeql-analysis.yml)
-![](https://img.shields.io/github/license/aaryanrr/RailwayMGMT?color=red)
-
 RAILWAY MANAGEMENT SYSTEM
 
 ---------
